@@ -3,7 +3,7 @@ Aunven
 
 Check it, this is a ridiculous attempt at providing some custom datas to PCGen. Ryan's got this setting called Aunven that's calling for us to redefine some of the stuff provided in the OGL Pathfinder library.
 
-This README is geared at OS X. If someone does Windows stuff, please instructions below.
+This README is geared at OS X. If someone does Windows stuff, please add instructions below.
 
 Making it Work
 ---------------
@@ -14,7 +14,7 @@ Making it Work
 - $ git clone git@github.com:jnf/Aunven.git
 - Now go make a drink. That was the easy part.
 
-Ok, so now you have to tell PCGen to load our Aunven data alongside the other Pathfinder materials. The interface is kinda clunks, but, if you do it right, you should only ever have to do it once. So, fire up PCGEn and. . .
+Ok, so now you have to tell PCGen to load our Aunven data alongside the other Pathfinder materials. The interface is kinda clunks, but, if you do it right, you should only ever have to do it once. So, fire up PCGen and...
 
 - After the UI initializes, pop over to the _Advanced_ tab of the *Select Sources* window.
 - Pop open the *Homebrew* dropdown and select _Aunven_ from the list.
