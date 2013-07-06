@@ -1,0 +1,19 @@
+CAMPAIGN:Aunven
+GAMEMODE:Pathfinder_RPG
+RANK:1
+GENRE:Fantasy
+BOOKTYPE:Homebrew
+SETTING:Aunven
+TYPE:Homebrew.Aunven
+PUBNAMELONG:Ryan's Wack World of Aunven
+PUBNAMESHORT:Aunven
+PUBNAMEWEB:meh
+SOURCELONG:What the shit is the difference between pubnamelong and sourcelong?
+SOURCESHORT:Aunven
+SOURCEWEB:wat
+SOURCEDATE:2013-07-05
+ISOGL:NO
+COPYRIGHT:LOL
+
+INFOTEXT:Just adding some custom shit to PCGen.
+LANGUAGE:aunven_languages.lst
